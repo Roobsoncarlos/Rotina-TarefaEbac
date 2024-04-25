@@ -1,0 +1,23 @@
+Ao levantar
+1 - Andar até o banheiro
+2 - Acender a luz
+3 - Pegar escova de dentes
+4 - Escovar os dentes
+5 - verificar se há ração para os gatos
+6 - Se tiver não tiver
+	1 - Ir até a cozinha
+	2 - Pegar a ração
+	3 - Abastecer
+7 - Ir até o quarto
+8 - abrir guarda-roupas
+9 - pegar roupa
+10 - trocar de roupa
+11 - ir até a sala
+12 - abrir a porta
+13 - Se estiver  fechada
+	1 - pegar chave da porta
+	2 - inserir chave na fechadura
+	3 - abrir 
+14 - se tiver aberta
+	1 - abrir
+15 - Ir ao trabalho
